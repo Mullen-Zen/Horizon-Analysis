@@ -7,9 +7,11 @@
   This tool can offer both students and business decision makers valuable insight into trends of their future applicant pools, which can offer good insight into their own ability to hire and compensate competitively in upcoming cycles as well as plan for future staff pool expansion or shrinkage. Additionally, career-oriented students entering university can use this tool to assist in choosing a degree path. After all, a degree is the largest investment of many young adults' lives - the more information and insight there is to gain, the better. Every stakeholder and beneficiary of the talents developed therein benefits from smart, strategic degree choices.
 
 Visit the website [here](https://horizonanalysis.streamlit.app).
-Or, to run it yourself:
+Or, to run it yourself locally:
 
 ```.sh
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+<strong>Note:</strong> due to how Streamlit works with free website hosting, in extended periods of low/no website activity a user visiting the website will have to click a button to "wake" the website up. It takes less than two minutes. This system allows me to host this tool publically, forever, for free! Thanks for your patience.
